@@ -4,9 +4,9 @@ Existem duas formas de implementar o Git Flow, a primeira é utilizar os comando
 
 Para instalar a CLI do Git Flow, escolha uma opção de acordo com seu sistema operacional:
 
-   - *OSX*: brew install git-flow
-   - *Linux*: apt install git-flow
-   - *Windows*: https://git-scm.com/download/win → Já está incluído no Git a partir da versão 2.5.3.
+   - **OSX**: brew install git-flow
+   - **Linux**: apt install git-flow
+   - **Windows**: https://git-scm.com/download/win → Já está incluído no Git a partir da versão 2.5.3.
 
 ## Iniciando o Git Flow
 
@@ -98,5 +98,6 @@ Com a CLI do Git-flow:
 ```bash 
 git flow release finish 1.0.0
 ```
-*Pronto*, agora sabemos como utilizar os comandos do Git e a CLI git-flow para aplicarmos o Git Flow na prática!
-_fonte: https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar?srsltid=AfmBOorlz83rMUno5p2jmie9cxgqZVCwvso-lKgMg1BLDVbLdY1qTh8n_
+**Pronto**, agora sabemos como utilizar os comandos do Git e a CLI git-flow para aplicarmos o Git Flow na prática!
+
+*fonte: https://www.alura.com.br/artigos/git-flow-o-que-e-como-quando-utilizar?srsltid=AfmBOorlz83rMUno5p2jmie9cxgqZVCwvso-lKgMg1BLDVbLdY1qTh8n*
