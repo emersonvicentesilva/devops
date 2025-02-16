@@ -1,2 +1,2 @@
-# devops
-Documentation repository about DevOps pratices
+# DevOps
+Reference documentation repository about DevOps pratices
