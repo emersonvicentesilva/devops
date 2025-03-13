@@ -1,0 +1,1 @@
+for /f "tokens=5" %a in ('netstat -ano ^| findstr ESTABLISHED') do @wmic process where ProcessId=%a get Name,ExecutablePath,CommandLine,ProcessId
